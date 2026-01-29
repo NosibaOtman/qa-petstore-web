@@ -24,7 +24,6 @@ The goal was to ensure system functionality, usability, and stability according 
 - **STD** – Software Test Design  
 - **STR** – Software Test Report  
 
-All documents are available in the `docs` folder.
 
 ## 🐞 Bug Management
 - Bug reporting and tracking using **Jira**  
