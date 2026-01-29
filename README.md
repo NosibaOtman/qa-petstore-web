@@ -34,8 +34,6 @@ The goal was to ensure system functionality, usability, and stability according 
 - Web application
 - Multiple browsers (Chrome, Firefox, Edge)
 
-## 📸 Screenshots
-Screenshots and sample reports (if available) are included in the repository.
 
 ## 👩‍💻 Role
 QA Engineer – Manual Testing
