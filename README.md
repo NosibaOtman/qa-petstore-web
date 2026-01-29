@@ -27,9 +27,9 @@ The goal was to ensure system functionality, usability, and stability according 
 All documents are available in the `docs` folder.
 
 ## 🐞 Bug Management
-- Bug reporting and tracking using **Jira**
-- Test management with **Xray**
-- Regression testing between versions
+- Bug reporting and tracking using **Jira**  
+- Test management with **Xray**  
+- [Access Jira Board](https://nosiba1.atlassian.net/projects/SCRUM?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.xpandit.plugins.xray__testing-board#!page=test-plans) (view-only/demo)
 
 ## 🌐 Test Environment
 - Web application
